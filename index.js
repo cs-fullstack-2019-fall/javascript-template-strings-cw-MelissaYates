@@ -87,15 +87,7 @@ let parents =
         }
     ];
 
-// let tmpSchString = `Parent's Name: ${parents[0].name}
-// ${parents.children[0]}
-// ${parents.children[1]}
-// ${parents.children[2]}`
-//
-// for(let i = 0; let l=parents.children, let i<l, i++){
-//     console.log();
-// }
-// console.log(tmpSchString);
+//Code answer for question 3
 let parSentence = "Parent's Name: ";
 let chSent = "Children: ";
 parents.forEach(child);
